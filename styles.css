@@ -81,7 +81,8 @@ h1{
     background: url('images/hero-image.jpeg') no-repeat center center/cover;
     color: brown;
     text-align: center;
-    padding: 100px 20px;
+    padding: 300px 20px;
+    height: 500px;
 }
 .hero-content h1{
     font-size: 3em;
